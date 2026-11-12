@@ -1,0 +1,3 @@
+SOZVUCHIE DEMO — GENERATED IMAGES
+
+poster-silence, poster-city-jazz, pianist-portrait, quartet-portrait (including -small variants) were generated from scratch with OpenAI Imagegen on 2026-11-06 for this demonstration. People, performers, venues and events are fictional. These are not photographs of real named artists. No third-party source photographs or logos were supplied. Output may not be unique; no exclusive copyright guarantee is made. Prompts and source images accompany the separately delivered source package. JPEG copies are resized and compressed for web delivery.

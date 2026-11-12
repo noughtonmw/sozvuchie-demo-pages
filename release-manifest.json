@@ -1,0 +1,146 @@
+{
+  "createdAt": "2026-11-12T11:47:47.615Z",
+  "publicDirectory": "/",
+  "files": [
+    {
+      "path": "assets/cello-study-small.jpg",
+      "bytes": 43126,
+      "sha256": "b4c50afa09620947d12f4f78c2f3656d59246c585ffadfe2b128cd8a8c25f89b"
+    },
+    {
+      "path": "assets/cello-study.jpg",
+      "bytes": 135543,
+      "sha256": "8c7789aff75c5191879e78b31666bf2c7d0c92912aacc905b46a15de249bbf11"
+    },
+    {
+      "path": "assets/index-0DvnUOZH.js",
+      "bytes": 344690,
+      "sha256": "905d876b4799f608a35690aaf64e266905361751c69711a522cbd0b13d2a2d60"
+    },
+    {
+      "path": "assets/index-BQRIWxgI.css",
+      "bytes": 35173,
+      "sha256": "9445d822f51f8ddfd16e838f5375a83adbd0ad84f3580e40ded647407504c30b"
+    },
+    {
+      "path": "assets/jazz-trio-small.jpg",
+      "bytes": 40450,
+      "sha256": "c7f54d568fb516c58441ca8b92f70016e87fb034f441c78b51f16e7c44c1f3bd"
+    },
+    {
+      "path": "assets/jazz-trio.jpg",
+      "bytes": 124998,
+      "sha256": "c7602d933cdbe78cbb142719251c2800693fc0c267baf20f3e88a8a31f70fdfe"
+    },
+    {
+      "path": "assets/Organizer-C6I_qC4H.css",
+      "bytes": 12159,
+      "sha256": "38e45ea14b48ebf57367e879b50a4c63ad488348213407da4717f5dc6f384c4c"
+    },
+    {
+      "path": "assets/Organizer-DHStxhNB.js",
+      "bytes": 49979,
+      "sha256": "d5f79c19bf3a04c5fe2fc60e183f9802f62dc1c3f3877804bd41c45c333a8a3f"
+    },
+    {
+      "path": "assets/pianist-portrait-small.jpg",
+      "bytes": 32896,
+      "sha256": "8fb6a52ab8159507022ce3326c5408829f058e5f1186d18ff8648e07c717d925"
+    },
+    {
+      "path": "assets/pianist-portrait.jpg",
+      "bytes": 96843,
+      "sha256": "441ed958051947f6fb4ccb8d3ed9e1f2ce38c8343a1588ff9c603dfb24f4f702"
+    },
+    {
+      "path": "assets/piano-study-small.jpg",
+      "bytes": 43333,
+      "sha256": "28e56b0701ab670b1e0ba18626835cf97cbeea5ca78e49d8b68a19b212f6f8a8"
+    },
+    {
+      "path": "assets/piano-study.jpg",
+      "bytes": 124398,
+      "sha256": "fce422e8f9f60420f19c7907d6c27dc9956a4e01edf883b1c1f95c313a970e03"
+    },
+    {
+      "path": "assets/poster-city-jazz-small.jpg",
+      "bytes": 79005,
+      "sha256": "364d563af3245282491436a0dd391ce83a6f9ce5139d1213548c206ac5b4df84"
+    },
+    {
+      "path": "assets/poster-city-jazz.jpg",
+      "bytes": 235184,
+      "sha256": "50feec27a567db104972484519346807f2bb6ceb52990af1067ae723ba134e7a"
+    },
+    {
+      "path": "assets/poster-silence-small.jpg",
+      "bytes": 37100,
+      "sha256": "636038c47737bfa7b4cf974cecfb47f973bb40ebab1caa3a211fd9e3dacedc98"
+    },
+    {
+      "path": "assets/poster-silence.jpg",
+      "bytes": 105513,
+      "sha256": "99ad1a411d8a33d4a3b0ed28862be50f2651362197013f415ac08ad55195b9da"
+    },
+    {
+      "path": "assets/quartet-portrait-small.jpg",
+      "bytes": 56056,
+      "sha256": "e6a7a740db40728ccea0cd405890f875d052d0735e247975dd3eda0fd440b302"
+    },
+    {
+      "path": "assets/quartet-portrait.jpg",
+      "bytes": 176960,
+      "sha256": "305fd82c58f6cc8a326c655023eb0153b674759c8d81bb9a0a0cdd337f2a4166"
+    },
+    {
+      "path": "favicon.svg",
+      "bytes": 256,
+      "sha256": "e7e4ee551efcbb5bd3ee26727029970a2a94e6900697dd05eb0f24f7ab7c07b1"
+    },
+    {
+      "path": "fonts/golos-text.woff",
+      "bytes": 67292,
+      "sha256": "134a04a4e3d13f5e3e5c08109fbe964daaf73dc6e209eafc00ebc664d55206e0"
+    },
+    {
+      "path": "fonts/unbounded.woff",
+      "bytes": 89712,
+      "sha256": "e6fe86866097198681e0958998cc720242a9fc982414db08b9372d415c08a636"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1647,
+      "sha256": "0b5efd18188bfec3cd206c5948248e55c398c4534181c6648d0a10c7fb48a3ef"
+    },
+    {
+      "path": "licenses/GENERATED_ASSETS.txt",
+      "bytes": 586,
+      "sha256": "8fd07cf8757c829efabb982b35f7574f773127542035c2996e52fc72ba6a51a4"
+    },
+    {
+      "path": "licenses/GolosText-OFL.txt",
+      "bytes": 4394,
+      "sha256": "ff532f9e8789f09a9fdffc3c0954eedfb0a48be77b2e2eb90f5f82e4f347f50c"
+    },
+    {
+      "path": "licenses/THIRD_PARTY_NOTICES.txt",
+      "bytes": 277683,
+      "sha256": "091bde4666c69912834c9f2fb74440d5cb2884801d79606c3fa382683925119c"
+    },
+    {
+      "path": "licenses/Unbounded-OFL.txt",
+      "bytes": 4392,
+      "sha256": "31e5d4e83955e7103c34570dd49b0570ef490800bd65b42923c0dd02445263b3"
+    },
+    {
+      "path": "media/sozvuchie-study.wav",
+      "bytes": 1058444,
+      "sha256": "1173123952e2a82b19b866ee53a18a49d812dee40394a558b455a146068d9976"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 26,
+      "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1"
+    }
+  ]
+}
